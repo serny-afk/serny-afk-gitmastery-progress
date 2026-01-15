@@ -170,5 +170,15 @@
       "Answer for Which new values are new in north.csv on Jan 10th, compared to Jan 01st? is empty."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1768488098.134666,
+    "completed_at": 1768488102.551445,
+    "comments": [
+      "Answer for Which are the new values in staged files? is not right.",
+      "Answer for Which are the new values in modified but unstaged files? does not contain all of the right answers."
+    ],
+    "status": "Incomplete"
   }
 ]
